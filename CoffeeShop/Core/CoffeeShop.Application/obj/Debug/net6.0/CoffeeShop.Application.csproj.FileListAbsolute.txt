@@ -1,0 +1,15 @@
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\bin\Debug\net6.0\CoffeeShop.Application.deps.json
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\bin\Debug\net6.0\CoffeeShop.Application.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\bin\Debug\net6.0\CoffeeShop.Application.pdb
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\bin\Debug\net6.0\CoffeeShop.Domain.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\bin\Debug\net6.0\CoffeeShop.Domain.pdb
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\obj\Debug\net6.0\CoffeeShop.Application.csproj.AssemblyReference.cache
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\obj\Debug\net6.0\CoffeeShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\obj\Debug\net6.0\CoffeeShop.Application.AssemblyInfoInputs.cache
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\obj\Debug\net6.0\CoffeeShop.Application.AssemblyInfo.cs
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\obj\Debug\net6.0\CoffeeShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\obj\Debug\net6.0\CoffeeShop.Application.csproj.CopyComplete
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\obj\Debug\net6.0\CoffeeShop.Application.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\obj\Debug\net6.0\refint\CoffeeShop.Application.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\obj\Debug\net6.0\CoffeeShop.Application.pdb
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Application\obj\Debug\net6.0\ref\CoffeeShop.Application.dll

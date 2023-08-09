@@ -1,0 +1,12 @@
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\bin\Debug\net6.0\CoffeeShop.Domain.deps.json
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\bin\Debug\net6.0\CoffeeShop.Domain.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\bin\Debug\net6.0\CoffeeShop.Domain.pdb
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\obj\Debug\net6.0\CoffeeShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\obj\Debug\net6.0\CoffeeShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\obj\Debug\net6.0\CoffeeShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\obj\Debug\net6.0\CoffeeShop.Domain.AssemblyInfo.cs
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\obj\Debug\net6.0\CoffeeShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\obj\Debug\net6.0\CoffeeShop.Domain.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\obj\Debug\net6.0\refint\CoffeeShop.Domain.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\obj\Debug\net6.0\CoffeeShop.Domain.pdb
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Core\CoffeeShop.Domain\obj\Debug\net6.0\ref\CoffeeShop.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\bin\Debug\net6.0\CoffeeShop.Infrastructure.deps.json
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\bin\Debug\net6.0\CoffeeShop.Infrastructure.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\bin\Debug\net6.0\CoffeeShop.Infrastructure.pdb
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\bin\Debug\net6.0\CoffeeShop.Application.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\bin\Debug\net6.0\CoffeeShop.Domain.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\bin\Debug\net6.0\CoffeeShop.Application.pdb
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\bin\Debug\net6.0\CoffeeShop.Domain.pdb
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\obj\Debug\net6.0\CoffeeShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\obj\Debug\net6.0\CoffeeShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\obj\Debug\net6.0\CoffeeShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\obj\Debug\net6.0\CoffeeShop.Infrastructure.AssemblyInfo.cs
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\obj\Debug\net6.0\CoffeeShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\obj\Debug\net6.0\CoffeeShop.Infrastructure.csproj.CopyComplete
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\obj\Debug\net6.0\CoffeeShop.Infrastructure.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\obj\Debug\net6.0\refint\CoffeeShop.Infrastructure.dll
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\obj\Debug\net6.0\CoffeeShop.Infrastructure.pdb
+C:\Users\Ceyhun\Desktop\CoffeeShopProject\CoffeeShop\Infrastructure\CoffeeShop.Infrastructure\obj\Debug\net6.0\ref\CoffeeShop.Infrastructure.dll

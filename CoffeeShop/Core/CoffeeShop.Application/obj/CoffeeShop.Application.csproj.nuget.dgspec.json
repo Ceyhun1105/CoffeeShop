@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Application\\CoffeeShop.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Application\\CoffeeShop.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Application\\CoffeeShop.Application.csproj",
+        "projectName": "CoffeeShop.Application",
+        "projectPath": "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Application\\CoffeeShop.Application.csproj",
+        "packagesPath": "C:\\Users\\Ceyhun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ceyhun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Domain\\CoffeeShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Domain\\CoffeeShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.6.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Domain\\CoffeeShop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Domain\\CoffeeShop.Domain.csproj",
+        "projectName": "CoffeeShop.Domain",
+        "projectPath": "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Domain\\CoffeeShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ceyhun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ceyhun\\Desktop\\CoffeeShopProject\\CoffeeShop\\Core\\CoffeeShop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ceyhun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
